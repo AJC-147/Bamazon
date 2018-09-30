@@ -49,7 +49,7 @@ function bamazon() {
 
 //                console.log(user.productWanted);
 //                console.log(user.quantityWanted);
-                var productWantedAdjusted = user.productWanted - 1
+                var productWantedAdjusted = user.productWanted - 1;
 //                console.log(productWantedAdjusted);
 //                console.log(res[productWantedAdjusted].stock_quantity);
 
